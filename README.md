@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nitish Kumar</h1>
 <h3 align="center">उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।
 आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥</h3>
-<h2 align="center"> <u>Hindi Translation:<u/> </h2>
+<h2> <u>Hindi Translation:<u/> </h2>
 <p> स्वयं अपना उद्धार करे अपना पतन न करे,
      क्योंकि आप ही अपना मित्र है और आप ही अपना शत्रु है। </p>
 
