@@ -4,7 +4,6 @@
 <h3 align="center">I'm Indian.</h3>
 
 
-
 ## 🙋‍♂️ About Me:
 <img align="right" alt="coding" width="450" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
@@ -17,8 +16,6 @@
 - 📫 How to reach me **nitishk133@gmail.com**
 
 - ⚡ Fun fact **Learn something from out of the stream, When getting bored from regular work.**
-
-
 
 <!--
 **sanchaya-108/sanchaya-108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
