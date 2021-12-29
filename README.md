@@ -1,7 +1,9 @@
 <a href="#"><img width="100%" height="30%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nitish Kumar</h1>
-<h3 align="center">I'm Indian.</h3>
+<h3 align="center">उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।
+आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥</h3>
+<h3 align="center">Elevate yourself through your own efforts, and not degrade yourself. For, the mind can be the friend and also the enemy of the self.</h3>
 
 
 ## 🙋‍♂️ About Me:
