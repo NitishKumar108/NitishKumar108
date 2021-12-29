@@ -1,3 +1,5 @@
+<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="175px"/></a>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nitish Kumar</h1>
 <h3 align="center">I'm Indian.</h3>
 
@@ -8,7 +10,7 @@
 
 - 🌱 I’m currently learning **OpenCV in Python.**
 
-- 👯 I’m looking to collaborate on **OpenSource Community.**
+- 👯 I’m looking to collaborate with **OpenSource Community.**
 
 - 📫 How to reach me **nitishk133@gmail.com**
 
