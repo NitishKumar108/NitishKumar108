@@ -18,7 +18,6 @@
 
 - ⚡ Fun fact **Learn something from out of the stream, When getting bored from regular work.**
 
-
 <!--
 **sanchaya-108/sanchaya-108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,7 +32,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: **Learn something from out of the stream, When getting bored from regular work.**
 -->
-
 
 ## 🚀 Languages and Tools:
 
