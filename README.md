@@ -4,8 +4,7 @@
 <h3 align="center">I'm Indian.</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
-
+<img align="right" alt="coding" width="450" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on...
