@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on...
 
-- 🌱 I’m currently learning **OpenCV in Python.**
+- 🌱 I’m currently learning **[OpenCV in Python](https://opencv.org/).**
 
 - 👯 I’m looking to collaborate with **OpenSource Community.**
 
