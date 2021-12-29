@@ -5,7 +5,7 @@
 
 
 ## 🙋‍♂️ About Me:
-<img align="right" alt="coding" width="450" src="">
+<img align="right" alt="coding" width="450" src=".coder.gif">
 
 - 🔭 I’m currently working on...
 
