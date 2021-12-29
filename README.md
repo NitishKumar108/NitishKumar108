@@ -5,7 +5,7 @@
 
 
 ## 🙋‍♂️ About Me:
-<img align="right" alt="coding" width="450" src=".coder.gif">
+<img align="right" alt="coding" width="450" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47mmiq34sp44xp621iymhmkwfvfu7amqh1y1qejsnl&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on...
 
