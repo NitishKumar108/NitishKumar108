@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<a href="https://github.com/sanchaya-108/github-readme-activity-graph"><img alt="Nitish Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sanchaya-108&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/sanchaya-108/github-readme-activity-graph"><img alt="Nitish Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sanchaya-108&bg_color=0D1117&color=5BCDEC&line=ff9945&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
