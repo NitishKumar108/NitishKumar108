@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="10%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="175px"/></a>
+<a href="#"><img width="50%%" height="50%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nitish Kumar</h1>
 <h3 align="center">I'm Indian.</h3>
