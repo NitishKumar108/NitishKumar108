@@ -66,13 +66,12 @@ Here are some ideas to get you started:
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-<br/>
 <br/>
 
+<br/>
 <a href="https://github.com/sanchaya-108/github-readme-activity-graph"><img alt="Nitish Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sanchaya-108&bg_color=0D1117&color=ff9945&line=ff9945&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
+
 <br/>
 
 ## Connect with me:
