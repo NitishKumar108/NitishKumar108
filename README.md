@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 ## ❤ Views and Followers
 <!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sanchaya-108&color=#ff9945"> -->
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=sanchaya-108&left_color=green&right_color=#ff9945)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=sanchaya-108&left_color=green&right_color=ff9945)
     
 </a>
 <a href="https://github.com/sanchaya-108?tab=followers"><img src="https://img.shields.io/github/followers/sanchaya-108?label=Followers&style=social" alt="GitHub Badge"></a>
