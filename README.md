@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/nitish-kumar-663421118/"><img src="https://img.icons8.com&color=#E67E22/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/nitish-kumar-663421118/"><img src="https://img.icons8.com&color=E67E22/fluent/48/000000/linkedin.png"/></a>
 
 </p>
 
