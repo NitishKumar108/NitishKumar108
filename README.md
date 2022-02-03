@@ -11,7 +11,7 @@
 <p align="center"> Elevate yourself through your own efforts, and not degrade yourself. For, the mind can be the friend and also the enemy of the self.</p>
 
 ## 🙋‍♂️ About Me:
-<img align="right" alt="coding" width="450" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47mmiq34sp44xp621iymhmkwfvfu7amqh1y1qejsnl&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="350" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47mmiq34sp44xp621iymhmkwfvfu7amqh1y1qejsnl&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on...
 
