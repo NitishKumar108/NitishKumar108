@@ -24,7 +24,7 @@
 - ⚡ Fun fact **Learn something from out of the stream, When getting bored from regular work.**
 
 <!--
-**sanchaya-108/sanchaya-108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sanchaya-108/NitishKumar108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -53,16 +53,16 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-    <a href="https://github.com/sanchaya-108/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nitish Kumar's streak" src="http://github-readme-streak-stats.herokuapp.com?user=sanchaya-108&theme=great-gatsby&date_format=M%20j%5B%2C%20Y%5D"/>
+    <a href="https://github.com/NitishKumar108/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nitish Kumar's streak" src="http://github-readme-streak-stats.herokuapp.com?user=NitishKumar108&theme=great-gatsby&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/sanchaya-108/github-readme-stats"><img alt="Nitish Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanchaya-108&show_icons=true&count_private=true&theme=great-gatsby&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/sanchaya-108/github-readme-stats"><img alt="Nitish Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchaya-108&langs_count=8&count_private=true&layout=compact&theme=great-gatsby&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/NitishKumar108/github-readme-stats"><img alt="Nitish Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NitishKumar108&show_icons=true&count_private=true&theme=great-gatsby&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/NitishKumar108/github-readme-stats"><img alt="Nitish Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitishKumar108&langs_count=8&count_private=true&layout=compact&theme=great-gatsby&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<a href="https://github.com/sanchaya-108/github-readme-activity-graph"><img alt="Nitish Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sanchaya-108&bg_color=0D1117&color=ff9945&line=ff9945&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/NitishKumar108/github-readme-activity-graph"><img alt="Nitish Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NitishKumar108&bg_color=0D1117&color=ff9945&line=ff9945&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 ## ❤ Views and Followers
 <!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sanchaya-108&color=#ff9945"> -->
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=sanchaya-108&left_color=gray&right_color=orange)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=NitishKumar108&left_color=gray&right_color=orange)
     
 </a>
-<a href="https://github.com/sanchaya-108?tab=followers"><img src="https://img.shields.io/github/followers/sanchaya-108?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/NitishKumar108?tab=followers"><img src="https://img.shields.io/github/followers/NitishKumar108?label=Followers&style=social" alt="GitHub Badge"></a>
