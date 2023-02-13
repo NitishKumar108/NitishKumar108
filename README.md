@@ -43,7 +43,7 @@ Here are some ideas to get you started:
      <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
      <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
      <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-      <a href="https://www.javatpoint.com/servlet-tutorial" target="_blank"> <img src="https://img.icons8.com/color/48/000000/servlet.png"/> </a>
+      <a href="https://www.javatpoint.com/servlet-tutorial" target="_blank"> <img src="https://img.icons8.com/color/48/000000/servlet-logo.png"/> </a>
      <a href="https://hibernate.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/hibernate-logo.png"/> </a>
      <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
      <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
