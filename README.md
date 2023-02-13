@@ -49,8 +49,8 @@ Here are some ideas to get you started:
      <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
      <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
      <a href="https://tomcat.apache.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tomcat.png"/> </a>
-     <img src="https://icons8.com/icon/rPAHs7H1vriV/java-eclipse"/>
-     <img src="https://img.icons8.com/officel/16/null/java-eclipse.png"/>
+     <img src="https://img.icons8.com/color/48/000000/java-eclipse.png"/>
+     
 </p>
 
 <br/>
