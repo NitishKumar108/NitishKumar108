@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/NitishKumar108/github-readme-activity-graph"><img alt="Nitish Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NitishKumar108&bg_color=0D1117&color=ff9945&line=ff9945&point=FFFFFF&hide_border=true" /></a>
 ![Snake animation]
-(https://github.com/NitishKumar108/NitishKumar108/blob/output/github-contribution-grid-snake.svg)
+<a href = "https://github.com/NitishKumar108/NitishKumar108/blob/output/github-contribution-grid-snake.svg"></a>
 
 <br/>
 <br/>
