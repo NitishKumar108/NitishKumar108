@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-     <a href="https://www.javatpoint.com/java-tutorial" target="_blank"> <img src="<img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>"/> </a 
+     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png"/> </a>
+     
 </p>
 
 <br/>
