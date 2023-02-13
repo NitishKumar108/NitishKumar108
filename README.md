@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on...
 
-- 🌱 I’m currently learning **[OpenCV in Python](https://opencv.org/).**
+- 🌱 I’m currently learning **[Spring](https://spring.io/).**
 
 - 👯 I’m looking to collaborate with **OpenSource Community.**
 
@@ -24,7 +24,7 @@
 - ⚡ Fun fact **Learn something from out of the stream, When getting bored from regular work.**
 
 <!--
-**sanchaya-108/NitishKumar108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NitishKumar108/NitishKumar108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
+     <a href="https://www.java.com" target="_blank"> <img src="https://icons8.com/icon/GPfHz0SM85FX/java"/> </a>
     <a href="https://www.javatpoint.com/cpp-tutorial" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v2.png"/> </a> 
     <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/> </a> 
