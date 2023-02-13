@@ -11,9 +11,8 @@
 <p align="center"> Elevate yourself through your own efforts, and not degrade yourself. For, the mind can be the friend and also the enemy of the self.</p>
 
 ## 🙋‍♂️ About Me:
-<img align="right" alt="coding" width="350" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47mmiq34sp44xp621iymhmkwfvfu7amqh1y1qejsnl&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on...
+- 🔭 I’m currently working on **[Spring Boot] Project.**
 
 - 🌱 I’m currently learning **[Spring](https://spring.io/).**
 
@@ -41,15 +40,10 @@ Here are some ideas to get you started:
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-     <a href="https://www.javatpoint.com/java-tutorial" target="_blank"> <img src="https://icons8.com/icon/GPfHz0SM85FX/java"/> </a>
-    <a href="https://www.javatpoint.com/cpp-tutorial" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v2.png"/> </a> 
-    <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+     <a href="https://www.javatpoint.com/java-tutorial" target="_blank"> <img src="<img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>"/> </a 
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
 <p align="center">
@@ -84,7 +78,7 @@ Here are some ideas to get you started:
 
 ## ❤ Views and Followers
 <!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sanchaya-108&color=#ff9945"> -->
+    <img src="https://komarev.com/ghpvc/?username=NitishKumar108&color=#ff9945"> -->
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=NitishKumar108&left_color=gray&right_color=orange)
     
 </a>
