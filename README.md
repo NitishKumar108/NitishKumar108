@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-     <a href="https://www.java.com" target="_blank"> <img src="https://icons8.com/icon/GPfHz0SM85FX/java"/> </a>
+     <a href="https://www.javatpoint.com/java-tutorial" target="_blank"> <img src="https://icons8.com/icon/GPfHz0SM85FX/java"/> </a>
     <a href="https://www.javatpoint.com/cpp-tutorial" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v2.png"/> </a> 
     <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/> </a> 
